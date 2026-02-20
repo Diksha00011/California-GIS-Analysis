@@ -26,3 +26,13 @@ Created 5 km hospital accessibility buffer
 Calculated real population coverage percentage
 Estimated 22.66% of population lives within 5 km of hospital
 
+Part 4:
+Downloaded San Diego road network using OSMnx
+Projected graph for accurate distance calculations
+Added travel speed and travel time attributes
+Generated 15-minute drive-time isochrones for all hospitals
+Merged ACS block group population data
+Calculated network-based accessibility coverage
+Compared results with Euclidean buffer model
+Observed coverage increase from 22.66% to 41.91%
+
